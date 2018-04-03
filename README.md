@@ -1,5 +1,6 @@
 # password-locker
 Password locker is an application that allows you to store your account credentials
+
 #Installation
 
    Open the github repo
