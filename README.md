@@ -1,7 +1,7 @@
 # password-locker
 Password locker is an application that allows you to store your account credentials
 
-#Installation
+##Installation
 
    Open the github repo
    
@@ -19,7 +19,7 @@ Password locker is an application that allows you to store your account credenti
    
    Requirements
 
-#Browser
+##Browser
 
 Good internet connection
 
@@ -31,12 +31,12 @@ Technologies used
 
 This is mainly a python application
 
-#Meta
+##Meta
 
 #Email me at - akumuangeline76 
 #Github - atienoanji
 
-#License
+##License
 
 This is an open source software therefore the license is MIT 
 Copyright (c) 2017 Legacy Softwares
